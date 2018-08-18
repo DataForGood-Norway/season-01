@@ -15,7 +15,7 @@ In particular, we will use the graphical representation of tasks that Github ref
   
   For this first season of projects, we started with 3 __project boards__:
   
-  * [**Launching**](https://github.com/DataForGood-Norway/season-01/projects/1)
+  * [**Preparation**](https://github.com/DataForGood-Norway/season-01/projects/1)
   * [**take off**](https://github.com/DataForGood-Norway/season-01/projects/2)
   * and [**Landing**](https://github.com/DataForGood-Norway/season-01/projects/3)
   
@@ -39,7 +39,7 @@ Here is the result for each one of us:
 
 
 
-|         |                                           [Launching board](https://github.com/DataForGood-Norway/season-01/projects/1)                                            |                                            [Take off board](https://github.com/DataForGood-Norway/season-01/projects/2)                                            |                                            [Landing board](https://github.com/DataForGood-Norway/season-01/projects/3)                                             |
+|         |                                           [Preparation board](https://github.com/DataForGood-Norway/season-01/projects/1)                                            |                                            [Take off board](https://github.com/DataForGood-Norway/season-01/projects/2)                                            |                                            [Landing board](https://github.com/DataForGood-Norway/season-01/projects/3)                                             |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         | [**unassigned**](https://github.com/DataForGood-Norway/season-01/projects/1?card_filter_query=no%3Aassignee)                                                       | [**unassigned**](https://github.com/DataForGood-Norway/season-01/projects/2?card_filter_query=no%3Aassignee)                                                       | [**unassigned**](https://github.com/DataForGood-Norway/season-01/projects/3?card_filter_query=no%3Aassignee)                                                       |
 | Anna    | ![Anna](https://github.com/ankhek.png?size=64)[](https://github.com/DataForGood-Norway/season-01/projects/1?card_filter_query=assignee%3Aankhek)                   | ![Anna](https://github.com/ankhek.png?size=64)[](https://github.com/DataForGood-Norway/season-01/projects/1?card_filter_query=assignee%3Aankhek)                   | ![Anna](https://github.com/ankhek.png?size=64)[](https://github.com/DataForGood-Norway/season-01/projects/1?card_filter_query=assignee%3Aankhek)                   |
