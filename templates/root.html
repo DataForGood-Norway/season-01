@@ -13,18 +13,35 @@
     <img src="{{ '/static/superheroes.png'|asseturl }}">
   </div>
 </div>
+
+
+
 <div id="venue" class="flex">
   <div class="venue-map col-50">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1331.2525166230746!2d123.89851447194367!3d10.321936029441012!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9993a38a7cbf1%3A0x5bda0ee47098c2f0!2sUniversity+of+The+Philippines!5e0!3m2!1sen!2s!4v1452094898213" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1998.3988456867542!2d10.71474115194775!3d59.94211688178853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416de89f1967b1%3A0x56cb0ed695aeb069!2sStartupLab!5e0!3m2!1sen!2sno!4v1535317202572" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
   </div>
   <div class="venue-text col-50">
-    <h2>Venue</h2>
-    {{ this.venue }}
+    <h2>Kick Off Eveving (<b>Sept. 11th, 2018</b>)</h2>
+    {{ this.venue_kickoff }}
   </div>
 </div>
+
+<div id="venue" class="flex">
+  <div class="venue-map col-50">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2000.1323458087118!2d10.73913385194684!3d59.91335088177797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416cfbca9043c7%3A0x58b22fb30976dc1!2sComputas!5e0!3m2!1sen!2sno!4v1535317742723" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+  </div>
+  <div class="venue-text col-50">
+    <h2>Weekly Projects' Gathering</h2>
+    {{ this.venue_gathering }}
+  </div>
+</div>
+
+
+
+
 <div id="schedule">
   <h2>Schedule</h2>
-  <h3>Day 1</h3>
+  <h3>Day 1 - Kick Off (Sept. 11th 2018)</h3>
   <table class="row">
   {% for blk in this.schedule_day_1.blocks %}
     {{ blk }}
@@ -104,7 +121,7 @@
   </ul>
   <p>
     Interested in sponsoring this event?
-    Inquire at <a href="mailto:pycon@python.ph">pycon@python.ph</a>
+    Inquire at <a href="mailto:team@dataforgood.no">team@dataforgood.no</a>
   </p>
 </div>
 {% endblock %}

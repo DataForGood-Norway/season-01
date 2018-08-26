@@ -1,26 +1,47 @@
 _model: root
 ---
-title: PyCon Philippines 2016
+title: Data For Good Norway - Season #01
 ---
 body: 
 ---
 about:
 
-__PyCon Philippines__ is a volunteer-run, not-for-profit conference centered around the Python Programming language.
+__WHAT IS DATA FOR GOOD DATATHON SEASON?__
 
-The main goal of this conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised.
+A datathon is usually a weekend-long competition where you and your team have 48 hours (no sleep) to come up with a solution to a proposed challenge based on the provided datasets.
 
-We gather software engineers, programming enthusiasts, startup founders, corporate IT decision makers, students and IT educators in a 2-day event where we can collaborate and learn with each other.
+In our case we have decided to run a datathon season where you have about 3 months (no sleep deprivation) to work on your great projects' solution.
+
+The projects have to solve social or environmental issues using technology and data science. We use transparent methodologies to build open-source solutions with measurable impact.
+
 
 ---
-theme: This year's theme is _Diversity_. Our aim is to show that Python has something for everyone: from hobbyists, to educators, to professionals.
+theme: This season's theme is _Diversity_. Our aim is to show that Social Good with IT can made by everyone and provides value to anyone: from complete beginner, to researchers, to social & environmental entrepreneurs.
+---
+venue_kickoff:
+
+<pre>
+StartupLab, Gaustadalléen, Oslo
+</pre>
+
+The __Data Science Meetup__ and __Startup Lab__ are kind enough to help us launch our first datathon!
+
+
+
+---
+venue_gathering:
+
+<pre>
+Computas, Akersgata 35, Oslo
+</pre>
+
+__Computas__ is offering spaces where our groups can gather to work on their project on a weekly basis.
+
 ---
 venue:
 
 <pre>
-University of the Philippines
-Cebu Campus
-Lahug, Cebu City
+StartupLab, Gaustadalléen, Oslo
 </pre>
 
 ### Accomodation
@@ -348,91 +369,91 @@ url: https://www.python.org/psf/
 schedule_day_1:
 
 #### timeslot ####
-time: 2016-2-27 07:30
+time: 2018-9-11 17:30
 ----
-title: Registration
+title: Mingling
 ----
 person: 
 #### timeslot ####
-time: 2016-2-27 8:25
+time: 2018-9-11 8:25
 ----
 title: Opening Remarks
 ----
 person: Sony Valdez
 #### timeslot ####
-time: 2016-2-27 8:30
+time: 2018-9-11 8:30
 ----
 title: Building a Coding Community
 ----
 person: Isabel Sieh
 #### timeslot ####
-time: 2016-2-27 9:05
+time: 2018-9-11 9:05
 ----
 title: Keynote: Python — the People's Programming Language
 ----
 person: Carol Willing
 #### timeslot ####
-time: 2016-2-27 9:55
+time: 2018-9-11 9:55
 ----
 title: Full-stack: Dealing with the diversity of technology
 ----
 person: Evan Dale Aromin
 #### timeslot ####
-time: 2016-2-27 10:30
+time: 2018-9-11 10:30
 ----
 title: Break
 ----
 person: 
 #### timeslot ####
-time: 2016-2-27 11:00
+time: 2018-9-11 11:00
 ----
 title: Developing PhilSHORE a Marine Spatial Tool with Python
 ----
 person: Ian Panganiban & Charmyne Mamador
 #### timeslot ####
-time: 2016-2-27 12:00
+time: 2018-9-11 12:00
 ----
 title: Lunch
 ----
 person: 
 #### timeslot ####
-time: 2016-2-27 13:00
+time: 2018-9-11 13:00
 ----
 title: A Raspberry Pi Hexy
 ----
 person: Mithi Sevilla
 #### timeslot ####
-time: 2016-2-27 13:35
+time: 2018-9-11 13:35
 ----
 title: Bringing people together with iPython
 ----
 person: Russell Shepherd
 #### timeslot ####
-time: 2016-2-27 14:25
+time: 2018-9-11 14:25
 ----
 title: Python for the world's fastest trading engines
 ----
 person: Gerald Quisumbing
 #### timeslot ####
-time: 2016-2-27 15:00
+time: 2018-9-11 15:00
 ----
 title: Break
 ----
 person: 
 #### timeslot ####
-time: 2016-2-27 15:30
+time: 2018-9-11 15:30
 ----
 title: How Python facilitates the analysis of high-throughput genomic data
 ----
 person: Marylette Roa & Iris Uy
 #### timeslot ####
-time: 2016-2-27 16:20
+time: 2018-9-11 16:20
 ----
 title: Running Python without managing servers
 ----
 person: Markku Lepisto
 #### timeslot ####
-time: 2016-2-27 17:00
+time: 2018-9-11 17:00
 ----
 title: Keynote: Python x Data x Science
 ----
@@ -441,61 +462,61 @@ person: Reina Reyes
 schedule_day_2:
 
 #### timeslot ####
-time: 2016-2-28 7:30
+time: 2018-9-18 7:30
 ----
 title: Registration
 ----
 person:
 #### timeslot ####
-time: 2016-2-28 8:00
+time: 2018-9-18 8:00
 ----
 title: Keynote: A case study in customisable software
 ----
 person: Dylan Jay
 #### timeslot ####
-time: 2016-2-28 9:00
+time: 2018-9-18 9:00
 ----
 title: Scientists Panel
 ----
 person:
 #### timeslot ####
-time: 2016-2-28 9:40
+time: 2018-9-18 9:40
 ----
 title: Break
 ----
 person:
 #### timeslot ####
-time: 2016-2-28 9:55
+time: 2018-9-18 9:55
 ----
 title: Lightning Talks
 ----
 person:
 #### timeslot ####
-time: 2016-2-28 10:40
+time: 2018-9-18 10:40
 ----
 title: Why start to teach others to code (in Python)
 ----
 person: Richel Valdez
 #### timeslot ####
-time: 2016-2-28 11:25
+time: 2018-9-18 11:25
 ----
 title: Deploying Arches, a Python/Django app to help document and protect cultural and historic sites in the Philippines
 ----
 person: Joel Aldor
 #### timeslot ####
-time: 2016-2-28 12:15
+time: 2018-9-18 12:15
 ----
 title: Lunch
 ----
 person:
 #### timeslot ####
-time: 2016-2-28 13:15
+time: 2018-9-18 13:15
 ----
 title: Workshops
 ----
 person:
 #### timeslot ####
-time: 2016-2-28 17:15
+time: 2018-9-18 17:15
 ----
 title: Closing Remarks
 ----
@@ -504,19 +525,19 @@ person:
 workshops_main:
 
 #### timeslot ####
-time: 2016-2-28 13:15
+time: 2018-9-18 13:15
 ----
 title: Eat your vegetables for high availability
 ----
 person: Prem Vilas Fortran Rara
 #### timeslot ####
-time: 2016-2-28 14:00
+time: 2018-9-18 14:00
 ----
 title: Machine Learning in Python
 ----
 person: Loveme Felicilda
 #### timeslot ####
-time: 2016-2-28 15:30
+time: 2018-9-18 15:30
 ----
 title: Big Data and Python - Introduction to Apache PySpark
 ----
@@ -525,13 +546,13 @@ person: Alger Remirata
 workshops_room_a:
 
 #### timeslot ####
-time: 2016-2-28 13:15
+time: 2018-9-18 13:15
 ----
 title: Python for Beginners
 ----
 person: Sony Valdez
 #### timeslot ####
-time: 2016-2-28 15:15
+time: 2018-9-18 15:15
 ----
 title: AWS Lambda serverless computing workshop
 ----
@@ -540,7 +561,7 @@ person: Markku Lepisto
 workshops_room_b:
 
 #### timeslot ####
-time: 2016-2-28 13:15
+time: 2018-9-18 13:15
 ----
 title: Django Workshop
 ----
