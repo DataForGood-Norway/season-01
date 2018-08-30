@@ -186,51 +186,51 @@ nav a.active {
   width: 35%;
 }
 
-#speakers {
+#teams {
   background: url(girlandnoy.png) no-repeat center 6rem;
   background-size: 25rem;
   padding: 30rem 1.5rem 1.5rem;
 }
 
-#speakers h2 {
+#teams h2 {
   font-size: 4rem;
   margin-bottom: 3rem;
 }
 
-.speaker {
+.team {
   padding: 1.5rem;
 }
 
-.speaker-box {
+.team-box {
   padding-top: 100%;
   background: center top no-repeat;
   background-size: contain;
 }
 
-.speaker-info {
+.team-info {
   background: white;
   padding: 1.5rem;
 }
 
-.speaker-info h3 {
+.team-info h3 {
   margin: 0;
 }
 
-.speaker-info h4 {
+.team-info h4 {
   margin-top: 0;
 }
 
-.speaker-info .bio {
+.team-info .bio {
   font-size: 0.8em;
 }
 
-#tickets {
+#register {
   max-width: 60rem;
   margin: 0 auto;
   padding: 3rem 1.5rem;
 }
 
-#tickets .tb-submit {
+#register .tb-submit {
   background: #d14e4d;
 }
 
@@ -317,7 +317,7 @@ footer {
     width: 100%;
     padding: 0;
   }
-  #speakers {
+  #teams {
     background-position: center top;
     background-size: 15rem;
     padding-top: 15rem;

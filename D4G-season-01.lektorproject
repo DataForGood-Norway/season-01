@@ -1,0 +1,7 @@
+[project]
+name = D4G Datathon Season #1
+url = http://dataforgood.no/season-1
+
+[servers.ghpages]
+name = GitHub Pages
+target = ghpages://DataForGood-Norway/season-01?cname=dataforgood.no/season-1

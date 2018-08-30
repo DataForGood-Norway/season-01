@@ -1,4 +1,4 @@
-Website for PyCon Philippines 2016
+Website for the Datathon season #1 of Data For Good Norway, adapted from the website of PyCon Philippines 2016.
 
 ## Contributing
 

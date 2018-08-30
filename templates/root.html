@@ -21,7 +21,8 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1998.3988456867542!2d10.71474115194775!3d59.94211688178853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416de89f1967b1%3A0x56cb0ed695aeb069!2sStartupLab!5e0!3m2!1sen!2sno!4v1535317202572" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
   </div>
   <div class="venue-text col-50">
-    <h2>Kick Off Eveving (<b>Sept. 11th, 2018</b>)</h2>
+    <h2>Datathon - Kick Off</h2>
+    <h2>(<b>Sept. 11th, 2018</b> at <b>18:00</b>)</h2>
     {{ this.venue_kickoff }}
   </div>
 </div>
@@ -32,6 +33,7 @@
   </div>
   <div class="venue-text col-50">
     <h2>Weekly Projects' Gathering</h2>
+    <h2>(<b>Every Tuesday</b> from <b>17:30</b>)</h2>
     {{ this.venue_gathering }}
   </div>
 </div>
@@ -41,86 +43,59 @@
 
 <div id="schedule">
   <h2>Schedule</h2>
-  <h3>Day 1 - Kick Off (Sept. 11th 2018)</h3>
+  <h3>Day 1 - Kick Off (Sept. 11th)</h3>
   <table class="row">
   {% for blk in this.schedule_day_1.blocks %}
     {{ blk }}
   {% endfor %}
   </table>
-  <h3>Day 2</h3>
-  <table class="row">
-  {% for blk in this.schedule_day_2.blocks %}
-    {{ blk }}
-  {% endfor %}
-  </table>
+  <h3></h3>
+
   <h3>Workshops</h3>
-  <h4>Main Hall</h4>
+  <h4>Workshop #1 (Sept. 18th)</h4>
   <table class="row">
   {% for blk in this.workshops_main.blocks %}
     {{ blk }}
   {% endfor %}
   </table>
-  <h4>Room A</h4>
+  <h4>Workshop #1 (Sept.25th)</h4>
   <table class="row">
   {% for blk in this.workshops_room_a.blocks %}
     {{ blk }}
   {% endfor %}
   </table>
-  <h4>Room B</h4>
-  <table class="row">
-  {% for blk in this.workshops_room_b.blocks %}
-    {{ blk }}
-  {% endfor %}
-  </table>
 </div>
-<div id="speakers">
-  <h2 class="center">Speakers</h2>
-  <div class="flex flex-center">
-  {% for blk in this.speakers.blocks %}
-    {{ blk }}
-  {% endfor %}
-  </div>
-</div>
-<div id="tickets">
-  <h2>Tickets</h2>
+<div id="register">
+  <h2>Register</h2>
   <div
     data-tb="ticket-form"
     data-event="4703"
     data-headline='false'
-  ></div>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://cdn.ticketbase.com/widgets/v0.1/ticketbase.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','ticketbase-wjs');</script>
+    ></div>
+
+  <a class="typeform-share button" href="https://dataforgoodno.typeform.com/to/Vs1NB5" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#267DDD;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:25px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-hide-headers=true data-hide-footer=true data-submit-close-delay="5" target="_blank">Launch me </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+  
+</div>
+<div id="teams">
+  <h2 class="center">The Teams</h2>
+  <div class="flex flex-center">
+  {% for blk in this.teams.blocks %}
+    {{ blk }}
+  {% endfor %}
+  </div>
 </div>
 <div id="sponsors" class="center">
   <h2>
     This event was made possible with the<br>
-    help of our generous sponsors
+    help of generous partners
   </h2>
-  <h2>Gold Sponsors</h2>
   <ul>
     {% for blk in this.gold_sponsors.blocks %}
       {{ blk }}
     {% endfor %}
   </ul>
-  <h2>Bronze Sponsors</h2>
-  <ul>
-    {% for blk in this.bronze_sponsors.blocks %}
-      {{ blk }}
-    {% endfor %}
-  </ul>
-  <h2>Marketing Partners</h2>
-  <ul>
-    {% for blk in this.marketing_partners.blocks %}
-      {{ blk }}
-    {% endfor %}
-  </ul>
-  <h2>Media Partners</h2>
-  <ul>
-    {% for blk in this.media_partners.blocks %}
-      {{ blk }}
-    {% endfor %}
-  </ul>
   <p>
-    Interested in sponsoring this event?
+    Interested in sponsoring our events?<br>
     Inquire at <a href="mailto:team@dataforgood.no">team@dataforgood.no</a>
   </p>
 </div>

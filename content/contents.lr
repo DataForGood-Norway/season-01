@@ -10,13 +10,13 @@ __WHAT IS DATA FOR GOOD DATATHON SEASON?__
 
 A datathon is usually a weekend-long competition where you and your team have 48 hours (no sleep) to come up with a solution to a proposed challenge based on the provided datasets.
 
-In our case we have decided to run a datathon season where you have about 3 months (no sleep deprivation) to work on your great projects' solution.
+At Data For Good, we have decided to run a datathon season where you have about 3 months (no sleep deprivation) to work on your great projects' solution.
 
 The projects have to solve social or environmental issues using technology and data science. We use transparent methodologies to build open-source solutions with measurable impact.
 
 
 ---
-theme: This season's theme is _Diversity_. Our aim is to show that Social Good with IT can made by everyone and provides value to anyone: from complete beginner, to researchers, to social & environmental entrepreneurs.
+theme: This season's theme is _Diversity_. Our aim is to show that Social Good with IT can be achieved by anyone and provides value to everyone: from complete beginner, to researchers, to social & environmental entrepreneurs.
 ---
 venue_kickoff:
 
@@ -66,191 +66,64 @@ UP Cebu is also ten minutes away from Cebu IT Park and there are some AirBNBs th
 
 
 ---
-speakers:
+teams:
 
-#### speaker ####
-photo: reina.jpg
+#### team ####
+photo: team1.png
 ----
-name: Reina Reyes
+name: Team #1
 ----
-topic: Keynote: Python x Data x Science
+topic: Project: TO-BE-DEFINED
 ----
-bio: Reina Reyes is a data science consultant based in Manila. She is also a part-time lecturer at Ateneo de Manila University and Rizal Technological University. Before returning to the Philippines to pursue data science, she did research on galaxy formation and cosmology at Princeton University and the University of Chicago.
-#### speaker ####
-photo: carol.jpg
-----
-name: Carol Willing
-----
-topic: Keynote: Python — the People's Programming Language
-----
-bio:
+bio: Description
 
-Carol Willing is a Director of the Python Software Foundation, a research software engineer at Cal Poly SLO working on Project Jupyter, and a Geek-In-Residence at Fab Lab San Diego. She co-organizes PyLadies San Diego and San Diego Python. She’s a contributor to CPython and Audrey Roy Greenfeld’s Cookiecutter project, a maintainer for OpenHatch and the Anita Borg Institute’s open source projects, and a mentor for Google Summer of Code and GoogleCode In. Combining a love of nature, the arts, and math with a BSE in Electrical Engineering from Duke University and an MS in Management from MIT, she’s enjoyed creating software and teaching others for over 20 years.
-She recently spoke at Grace Hopper Celebration 2015, PyCon 2015, and Write/Speak/Code2015.
-#### speaker ####
-photo: djay.jpg
-----
-name: Dylan Jay
-----
-topic: Keynote: A case study in customisable software
-----
-bio: Dylan is CTO of PretaGov UK and Australia. He brings over 15 years Python, Zope and Plone experience to his company which helps governments deliver great digital services. A core contributor to Plone, creator of many Plone plugins and former leader of the Plone UX team. Dylan has given talks 10 different countries, 3 international Pycons and has organised monthly events for the python community in both Bangkok and Sydney. An entrepreneur with two patents to his name, Dylan is passionate about Python, user experience, startups and good food.
-#### speaker ####
-photo: prem.jpg
-----
-name: Prem Vilas Fortran Rara
-----
-topic: Eat your vegetables for high availability
-----
-bio:
 
-Prem's most recent life experience was listening on some mind-bending music
-while on a road trip with no other than Dr. Richard Stallman (RMS)
-in Northern Mindanao. He gave RMS enough hacking time beside a
-majestic waterfall so he can finish his essay on climate change
-Earth under attack from planet [Koch](https://stallman.org/articles/planet-koch.html).
+#### team ####
+photo: team2.png
+----
+name: Team #2
+----
+topic: Project: TO-BE-DEFINED
+----
+bio: Description
 
-Prem is partner and engineer at Cascadeo, Inc. doing cloud devops and
-big data analysis.
-#### speaker ####
-photo: ian-panganiban.jpg
+#### team ####
+photo: team3.png
 ----
-name: Luis Caezar Ian Panganiban
+name: Team #3
 ----
-topic: Developing PhilSHORE a Marine Spatial Tool with Python
+topic: Project: TO-BE-DEFINED
 ----
-bio: Ian is a Science Research Specialist II for a DOST-PCIEERD funded project which deals with the development of Web-based Geographic Information Systems for ocean renewable energy in UP Diliman. He is also a licensed geodetic engineer and a freelance WebGIS consultant/developer.
-#### speaker ####
-photo: cham-mamador.jpg
-----
-name: Charmyne Mamador
-----
-topic: Developing PhilSHORE a Marine Spatial Tool with Python
-----
-bio: Cham currently works as a Science Research Specialist II for developing web-based geographic information systems for ocean renewable energy. She mainly handles the frontend and the mapping interface of PhilSHORE. She is currently taking her Masters - in Energy Engineering in UP Diliman. She is also a freelance WebGIS developer and consultant and also a licensed geodetic engineer.
-#### speaker ####
-photo: richel.png
-----
-name: Richel Alexandria Valdez
-----
-topic: Why start to teach others to code (in Python)
-----
-bio:
+bio: Description
 
-A freelance illustrator/ designer/ game developer. Likes to volunteer especially to Google Developers Group and is presently the Women Techmakers Baguio Lead. An extreme dog lover who frequently "dog whispers".
-She is passionate about linguistics that is how she got into learning to code.
-#### speaker ####
-photo: evan.jpg
+#### team ####
+photo: team4.png
 ----
-name: Evan Dale Aromin
+name: Team #4
 ----
-topic: Dealing with the diversity of technology
+topic: Project: TO-BE-DEFINED
 ----
-bio: Evan Dale is a software engineer currently working at [coins.ph](https://coins.ph), a startup that brings financial services to the unbanked using mobile and blockchain technology. As their first engineer, he worked on most of their products using whatever knowledge he can to bring value to their customers. He enjoys working on different layers of the stack, whether it be mobile, API backends, or web frontends.
-#### speaker ####
-photo: mithi.jpg
+bio: Description
+
+#### team ####
+photo: team5.png
 ----
-name: Mithi Sevilla
+name: Team #5
 ----
-topic: A Raspberry Pi Hexy
+topic: Project: TO-BE-DEFINED
 ----
-bio: Mithi is a robotics enthusiast and a life long self-learner. She loves code readability so much that she sometimes rewrites other people's code to get better at it. Check out some of her works at [Medium](http://mithi.xyz), and [GitHub](http://github.com/mithi).
-#### speaker ####
-photo: gq.jpg
+bio: Description
+
+#### team ####
+photo: team6.jpeg
 ----
-name: Gerald Quisumbing
+name: Team #6
 ----
-topic: Python for the world's fastest trading engines
+topic: Project: TO-BE-DEFINED
 ----
-bio: Gerald Quisumbing or GQ for short, has been an IT consultant for over 15 years in various organizations and firms. GQ was recently an enterprise architect for a financial platform company where he learned to use Python for enterprise financial systems. He finished his degree in psychology at the Ateneo de Manila University but opted to be a geek instead of becoming a shrink. In the next few months, he will finish his master's degree in technology management at the University of the Philippines while studying design1o1 in Iversity.
-#### speaker ####
-photo: joel.jpg
-----
-name: Joel Aldor
-----
-topic: Deploying a Python/Django application to help protect Philippine cultural heritage
-----
-bio: Joel Aldor is a solutions architect by profession, having worked with blue-chip companies like Adobe and AIG in designing and deploying enterprise systems for businesses around the world. He is also a writer, photographer and a cultural heritage practitioner. His works for the documentation of colonial architecture around the Philippines has gained recognition and awards by the National Commission for Culture and the Arts and National Museum of the Philippines, as well as several institutions locally and around the world. He is one of the co-founders of Grupo Kalinangan, Inc., a non-profit organization that deployed the Philippine Heritage Map.
-#### speaker ####
-photo: alger.jpg
-----
-name: Alger Remirata
-----
-topic: Big Data and Python - Introduction to Apache PySpark
-----
-bio: Alger is currently working in Savvysherpa, a data science company with offices in Minnesota, Utah and Cebu. Most of his work is focused on performing data analysis and data mining on data coming from various industries like healthcare, telecommunications and call center operations. They implement machine learning algorithms to uncover hidden structure of data with Python as the main programming language being used.
-#### speaker ####
-photo: loveme.jpg
-----
-name: Loveme Felicilda
-----
-topic: Machine Learning in Python
-----
-bio: Loveme Felicilda is a researcher at Savvysherpa Inc. Has been using Python for healthcare, telecommunication and call center data analysis and machine learning since 2013. She is currently working on Natural Language Processing and Topic Modeling projects.
-#### speaker ####
-photo: sony.jpg
-----
-name: Mr. Valdez
-----
-topic: Python for Beginners
-----
-bio: Mr. Valdez is a teacher and hobbyist game programmer. He have taught Python to various students, ranging from complete beginners to intermediates. He lost his first name in an accident involving a wizard. He is hoping to graduate to a Doctor (in Information Technology) before the year ends.
-#### speaker ####
-photo: jon.jpg
-----
-name: Jon Danao
-----
-topic: Django Workshop
-----
-bio: Jon is the CEO of [The App Factory](http://theappfactory.io) and former Head of Technology for Innovations at ABS-CBN. He played lead guitars for a local band in Manila called Bridge. He is strong in blues, rock and roll, and showmanship. Terrible in second voice. He loves to cook and went to culinary school. He is strong in Asian cuisine and any food with patis (fish sauce) and chili.
-#### speaker ####
-photo: irisuy.png
-----
-name: Iris Diana Uy
-----
-topic: How Python facilitates the analysis of high-throughput genomic data
-----
-bio: Iris is a molecular biologist whose love for the ocean led her to study the genomes of marine creatures.  She stumbled upon Python five years ago, and that opened the world of bioinformatics to her.  Both Python and bioinformatics have since been endeared to her.  Today, she is a Senior Bioinformatics Specialist in the Philippine Genome Center.
-#### speaker ####
-photo: maryletteroa.jpg
-----
-name: Marylette Roa
-----
-topic: How Python facilitates the analysis of high-throughput genomic data
-----
-bio: Marylette is a molecular biologist from the University of the Philippines Diliman. Her life choices so far has led her from the lab to the exciting and nerve-wracking field of bioinformatics. Currently, she is a Senior Bioinformatics Specialist at the Philippine Genome Center.
-#### speaker ####
-photo: austin.jpg
-----
-name: Austin G. Imperial
-----
-topic: PyCon Inspiration
-----
-bio: Austin G. Imperial is a 14-year-old grade 8 student born in the year of the ~~Python~~ snake who uses the power of the Internet as a tool to teach himself how to code. He enjoys coding since June 1, 2014. So far he has learned Python, PHP, Ruby, JavaScript, jQuery, C, C++, SQL, HTML & CSS. He will spend time scrutinizing your profile page before accepting your friend request.
-#### speaker ####
-photo: russell.jpg
-----
-name: Russell Shepherd
-----
-topic: Bringing people together with iPython
-----
-bio: Russell is currently the CTO of Rappler.com, where he brings his background in quantitative social science to the future of media. Russell loves exploring real world problems by blending from methods from statistics, economics, social network analysis, and natural language processing for a wide variety of applications including counter terrorism, disaster response, venture capital and social media marketing.
-#### speaker ####
-photo: isabel.jpg
-----
-name: Isabel Sieh
-----
-topic: Building a Coding Community
-----
-bio: Isabel is a 12 year-old Grade 7 student who started teaching herself to code online when she was 10.  She has learned HTML, CSS, JavaScript and Python. In her attempts to find a community of coders, she founded Girls Will Code as an after school activity.  She loves reading, tennis, math and piano.  She is part of serial entrepreneur group Sieh Sisters who won Best Booth in 2014 Kiddopreneur Bazaar. Their latest venture is a cotton candy rental machine.  Last month she won a Star Wars costume competition where she incorporated an app on a cell phone on her R2D2 costume.
-#### speaker ####
-photo: markku.jpg
-----
-name: Markku Lepisto
-----
-topic: Running Python without managing servers / AWS Lambda serverless computing workshop
-----
-bio: Markku is the APAC Technology Evangelist at Amazon Web Services. He has been in the IT industry for 15 years, and has held various technical and management positions, covering R&D, technical support and architecture. For the past couple of years, Markku was responsible for the cloud computing architecture and technology transformation of Nokia Siemens Networksâ global business units. Markku has worked out of Finland, China and Singapore.
+bio: Description
+
+
 ---
 sponsors:
 
@@ -357,14 +230,42 @@ gold_sponsors:
 #### sponsor ####
 package: gold
 ----
-logo: psf.png
+logo: computas.svg
 ----
-name: Python Software Foundation
+name: COMPUTAS
 ----
-blurb: The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. We also run the North American PyCon conference annually, support other Python conferences around the world, and fund Python related development with our grants program and by funding special projects.
+blurb: Few words on Computas.
 ----
-url: https://www.python.org/psf/
+url: https://www.computas.com
 ----
+
+#### sponsor ####
+package: gold
+----
+logo: startup-lab-logo.svg
+----
+name: StartupLab
+----
+blurb: Few words on StartupLab.
+----
+url: https://startuplab.no/
+----
+
+#### sponsor ####
+package: gold
+----
+logo: meetup.svg
+----
+name: Oslo Data Science Meetup
+----
+blurb: Few words on the meetup.
+----
+url: https://www.meetup.com/Oslo-Data-Science/
+----
+
+
+
+
 ---
 schedule_day_1:
 
@@ -375,188 +276,40 @@ title: Mingling
 ----
 person: 
 #### timeslot ####
-time: 2018-9-11 8:25
+time: 2018-9-11 18:00
 ----
 title: Opening Remarks
 ----
-person: Sony Valdez
-#### timeslot ####
-time: 2018-9-11 8:30
-----
-title: Building a Coding Community
-----
-person: Isabel Sieh
-#### timeslot ####
-time: 2018-9-11 9:05
-----
-title: Keynote: Python — the People's Programming Language
-----
-person: Carol Willing
-#### timeslot ####
-time: 2018-9-11 9:55
-----
-title: Full-stack: Dealing with the diversity of technology
-----
-person: Evan Dale Aromin
-#### timeslot ####
-time: 2018-9-11 10:30
-----
-title: Break
-----
-person: 
-#### timeslot ####
-time: 2018-9-11 11:00
-----
-title: Developing PhilSHORE a Marine Spatial Tool with Python
-----
-person: Ian Panganiban & Charmyne Mamador
-#### timeslot ####
-time: 2018-9-11 12:00
-----
-title: Lunch
-----
-person: 
-#### timeslot ####
-time: 2018-9-11 13:00
-----
-title: A Raspberry Pi Hexy
-----
-person: Mithi Sevilla
-#### timeslot ####
-time: 2018-9-11 13:35
-----
-title: Bringing people together with iPython
-----
-person: Russell Shepherd
-#### timeslot ####
-time: 2018-9-11 14:25
-----
-title: Python for the world's fastest trading engines
-----
-person: Gerald Quisumbing
-#### timeslot ####
-time: 2018-9-11 15:00
-----
-title: Break
-----
-person: 
-#### timeslot ####
-time: 2018-9-11 15:30
-----
-title: How Python facilitates the analysis of high-throughput genomic data
-----
-person: Marylette Roa & Iris Uy
-#### timeslot ####
-time: 2018-9-11 16:20
-----
-title: Running Python without managing servers
-----
-person: Markku Lepisto
-#### timeslot ####
-time: 2018-9-11 17:00
-----
-title: Keynote: Python x Data x Science
-----
-person: Reina Reyes
----
-schedule_day_2:
+person: -
 
 #### timeslot ####
-time: 2018-9-18 7:30
+time: 2018-9-11 18:15
 ----
-title: Registration
+title: Datathon's details
 ----
-person:
-#### timeslot ####
-time: 2018-9-18 8:00
-----
-title: Keynote: A case study in customisable software
-----
-person: Dylan Jay
-#### timeslot ####
-time: 2018-9-18 9:00
-----
-title: Scientists Panel
-----
-person:
-#### timeslot ####
-time: 2018-9-18 9:40
-----
-title: Break
-----
-person:
-#### timeslot ####
-time: 2018-9-18 9:55
-----
-title: Lightning Talks
-----
-person:
-#### timeslot ####
-time: 2018-9-18 10:40
-----
-title: Why start to teach others to code (in Python)
-----
-person: Richel Valdez
-#### timeslot ####
-time: 2018-9-18 11:25
-----
-title: Deploying Arches, a Python/Django app to help document and protect cultural and historic sites in the Philippines
-----
-person: Joel Aldor
-#### timeslot ####
-time: 2018-9-18 12:15
-----
-title: Lunch
-----
-person:
-#### timeslot ####
-time: 2018-9-18 13:15
-----
-title: Workshops
-----
-person:
-#### timeslot ####
-time: 2018-9-18 17:15
-----
-title: Closing Remarks
-----
-person:
+person: -
+
+
+
 ---
 workshops_main:
 
 #### timeslot ####
-time: 2018-9-18 13:15
+time: 2018-9-18 17:30
 ----
-title: Eat your vegetables for high availability
+title: Project's Brainstorming
 ----
-person: Prem Vilas Fortran Rara
-#### timeslot ####
-time: 2018-9-18 14:00
-----
-title: Machine Learning in Python
-----
-person: Loveme Felicilda
-#### timeslot ####
-time: 2018-9-18 15:30
-----
-title: Big Data and Python - Introduction to Apache PySpark
-----
-person: Alger Remirata
+person: -
+
 ---
 workshops_room_a:
 
 #### timeslot ####
-time: 2018-9-18 13:15
+time: 2018-9-25 17:30
 ----
-title: Python for Beginners
+title: Project management tools & methods
 ----
-person: Sony Valdez
-#### timeslot ####
-time: 2018-9-18 15:15
-----
-title: AWS Lambda serverless computing workshop
-----
-person: Markku Lepisto
+person: -
 ---
 workshops_room_b:
 
