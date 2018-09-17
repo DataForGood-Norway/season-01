@@ -20,8 +20,4 @@ deploy:
     script: "lektor deploy master"
     on:
        branch: master
-  - provider: script
-    script: "lektor deploy production"
-    on:
-       branch: production
 
