@@ -6,9 +6,11 @@ python: 3.6
   - pip install Lektor
   - mkdir -p ../output
   - lektor build --output-path ../output
+  - cp README* ../output
   - git rm -rf .
   - cp -r ../output/* .
   - git checkout --orphan master
   - git add *
   - git -c user.name="D4G bot" -c user.email="No email" commit -am init 
   - git push --force https://$LEKTOR_DEPLOY_USERNAME:$LEKTOR_DEPLOY_PASSWORD@github.com/$TRAVIS_REPO_SLUG master
+
