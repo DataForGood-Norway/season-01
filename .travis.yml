@@ -15,7 +15,7 @@ install:
     - cp -r ../output/* .
 
 script:
-    - jupyter nbconvert Girls\ Can\ Do\ Machine\ Learning.ipynb --to slides --reveal-prefix=reveal.js
+    - "echo 'no intermediate tasks!'"
 
 after_success: |
     if [ -n "$LEKTOR_DEPLOY_PASSWORD" ]; then
