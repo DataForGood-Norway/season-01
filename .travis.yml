@@ -2,22 +2,13 @@ language: python
 
 python: 3.6
 
-cache:
-  directories:
-    - $HOME/.cache/pip
-    - $HOME/.cache/lektor/builds
-
-install:
-  - "pip install -U pip"
-  - "pip install unidecode"
-  - "pip install git+https://github.com/lektor/lektor#egg=Lektor"
-
-script:
-  - "lektor build"
-
-deploy:
-  - provider: script
-    script: "lektor deploy master"
-    on:
-       branch: master
-
+ install:
+  - pip install Lektor
+  - mkdir -p ../output
+  - lektor build --output-path ../output
+  - git rm -rf .
+  - cp -r ../output/* .
+  - git checkout --orphan master
+  - git add *
+  - git -c user.name="D4G bot" -c user.email="No email" commit -am init 
+  - git push --force https://$LEKTOR_DEPLOY_USERNAME:$LEKTOR_DEPLOY_PASSWORD@github.com/$TRAVIS_REPO_SLUG master
